@@ -66,6 +66,7 @@ Configuration
 * Configuration Class adalah sebuah class yang terdapat annotation @Configuration pada class tersebut
 
 * Kode : HelloWorldConfiguration
+![Img 1](image/1.png)
  
 Membuat Application Context
 * Selanjutnya, setelah membuat Class Configuration, kita bisa menggunakan class AnnotationConfigApplicationContext untuk membuat Application Context
